@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>LittleGoblin</title>
+    <!-- TemplateEndEditable -->
+    <link href="../css.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+
+  <div class="contenedor">
+    <div class="seccion-superior">
+      <div id="banner1"><p style="text-align: center"><img src="../recursos/1x/Recurso 18.png" alt="" height="5%" id="titulazo"/></p><br><p style="text-align: center"><a href="../index.html"><img src="../ELEMENTOS WEB JUEGO/gif-index.gif" alt="" height="25%" id="jhgif"/></a></p></div>
+      <!-- TemplateBeginEditable name="EditRegion1" -->
+      <div id="content">Contenido editable</div>
+      <!-- TemplateEndEditable -->
+<div id="banner2"><img src="../ELEMENTOS WEB JUEGO/1x/1x/Recurso 11.png" height="40%" alt=""/></div>
+      </div>
+    
+    <div class="menucontenedor">
+	<nav class="menu">
+      <a href="Javascript:history.go(-1)" class="menu-item"><img src="../recursos/1x/Recurso 12.png" height="85%" alt=""/></a>
+      <a href="../p1.html" class="menu-item"><img src="../recursos/1x/Recurso 14.png" height="55%" alt=""/></a>
+      <a href="../p2.html" class="menu-item"><img src="../recursos/1x/Recurso 15.png" height="55%" alt=""/></a>
+      <a href="../p3.html" class="menu-item"><img src="../recursos/1x/Recurso 16.png" height="55%" alt=""/></a>
+      <a href="../p4.html" class="menu-item"><img src="../recursos/1x/Recurso 17.png" height="55%" alt=""/></a>
+      <a href="Javascript:history.go(1)" class="menu-item"><img src="../recursos/1x/Recurso 13.png" height="85%" alt=""/></a>
+      </nav>
+    </div>
+</div>
+</body>
+</html>
