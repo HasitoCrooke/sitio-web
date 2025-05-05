@@ -22,7 +22,7 @@
             background-color: #a7ffeb;
             display: flex;
             flex-direction: column;
-            overflow: hidden;
+           
         }
         
         .seccion-superior {
@@ -51,6 +51,7 @@
     align-items: center;
     font-size: 1.5em;
     color: #fff;
+			
         }
         
         #content {
